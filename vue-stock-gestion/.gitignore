@@ -28,3 +28,16 @@ coverage
 *.sw?
 
 *.tsbuildinfo
+
+# Node.js
+node_modules/
+
+# Build outputs
+dist/
+
+# Environment files
+.env
+.env.*
+
+# Debug tools
+coverage/
